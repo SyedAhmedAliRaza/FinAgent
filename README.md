@@ -83,6 +83,8 @@ It enables users to analyze stocks in real-time, combining **market data, news i
 - Combines all outputs
 - Produces final report
 
+---
+
 ## 💻 How to Run 
 
 Use the following link on Google Colab:
