@@ -82,3 +82,9 @@ It enables users to analyze stocks in real-time, combining **market data, news i
 ### 🔹 Orchestrator Agent
 - Combines all outputs
 - Produces final report
+
+## 💻 How to Run 
+
+Use the following link on Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twY86MkbxHFwf-2IaTjUs4_Vx4L_s-iW)
